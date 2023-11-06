@@ -1,0 +1,15 @@
+dfx start
+
+dfx deploy
+
+dfx canister call <canister name> <canister function>   {Make sure u had made fuction of particular actor(canister) as public. Make sure to deploy first then call it out}
+
+
+dfx canister id __Candid_UI
+
+r7inp-6aaaa-aaaaa-aaabq-cai
+
+
+  http://127.0.0.1:4943/?canisterId=<CANDID-UI-CANISTER-IDENTIFIER>
+
+    http://127.0.0.1:4943/?canisterId=r7inp-6aaaa-aaaaa-aaabq-cai
