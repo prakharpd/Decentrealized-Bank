@@ -4,7 +4,7 @@ Welcome to your new Decentralized Bank project and to the internet computer deve
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
-To learn more before you start working with dbank, see the following documentation available online:
+To learn more before you start working with Decentralized Bank, see the following documentation available online:
 
 - [Quick Start](https://sdk.dfinity.org/docs/quickstart/quickstart-intro.html)
 - [SDK Developer Tools](https://sdk.dfinity.org/docs/developers-guide/sdk-guide.html)
